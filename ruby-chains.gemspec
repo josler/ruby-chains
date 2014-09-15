@@ -9,6 +9,7 @@ Gem::Specification.new do |gem|
   gem.authors       = ['James Osler']
   gem.email         = ['j.osler@gmail.com']
   gem.description   = %q{Chaining and With}
+  gem.licenses      = ['MIT']
   gem.summary       = gem.description
   gem.homepage      = ''
   gem.add_development_dependency "minitest"
