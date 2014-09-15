@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'chains/version'
 
 Gem::Specification.new do |gem|
-  gem.name          = 'chains'
+  gem.name          = 'ruby-chains'
   gem.version       = Chains::VERSION
   gem.authors       = ['James Osler']
   gem.email         = ['j.osler@gmail.com']
